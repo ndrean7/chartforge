@@ -8,15 +8,14 @@ support and resistance, read the market structure, run the setup
 through a pre-trade checklist, size the position from the risk you
 chose, and write the plan down in signal format before you enter.
 
-Built from a real copy-signal record on Traders Family (profile
-AndreFx081, card oxndrean7): 34 months, +5,511.4 pips, 60K USD
+Built from a real copy-signal record: 34 months, +5,511.4 pips, 60K USD
 profit, about 2,898.5 pips per month on average, and November 2026
 at 3,360.3 pips across 41 signals. The full record: 51 of 134
 settled signals profitable (about 38% win rate), average
 reward-to-risk 1:1.89, average take-profit 425.8 pips against an
 average stop of 224.8 pips, gold (XAUUSD) as the main pair (71,639
 USD, 105 deals), and October 2026 at -967.4 pips — losing months
-happen. Those numbers are the record as shown on the Traders Family
+happen. Those numbers are the record as shown on the copy-signal
 card — a record, not a promise.
 
 ## What is inside

@@ -1,8 +1,7 @@
 # Monthly review — November 2026 (real record)
 
-This is the author's real monthly review, written from the Traders
-Family copy-signal record (profile AndreFx081, card oxndrean7).
-Figures are the record as shown on the Traders Family card.
+This is the author's real monthly review, written from a real
+copy-signal record. Figures are the record as shown on the card.
 
 - Total pips: **+3,360.3**
 - Number of signals: **41**

@@ -24,4 +24,4 @@ At the end of each month, roll the journal up:
 The monthly review is the record. A trader who cannot show a month
 like this is guessing about their own edge. See
 `examples/journal-nov-2026.md` for a month written exactly this way
-from the author's real Traders Family record.
+from the author's real copy-signal record.

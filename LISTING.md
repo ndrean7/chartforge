@@ -31,8 +31,7 @@ risk if the stop is hit. Finally it writes the whole thing down as a
 plan in signal format: pair, direction, entry, stop, target, size,
 and the invalidation that proves the idea wrong.
 
-The method is the one behind a real copy-signal record on Traders
-Family (profile AndreFx081, card oxndrean7): 34 months, +5,511.4
+The method is the one behind a real copy-signal record: 34 months, +5,511.4
 pips, 60K USD profit, about 2,898.5 pips per month on average, and
 November 2026 at 3,360.3 pips across 41 signals. The full record:
 51 of 134 settled signals profitable (about 38% win rate), average

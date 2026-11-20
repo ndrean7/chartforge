@@ -1,6 +1,6 @@
 ---
 name: chartforge
-description: Turn a chart into a trade plan you can defend — map support and resistance, read market structure, check the setup against a pre-trade checklist, size the position from the risk you chose, and write the plan down before you enter. Built from a real copy-signal record: 34 months, +5,511.4 pips on Traders Family. Use when you need a second opinion on a setup, a position size, or a written plan for a trade.
+description: Turn a chart into a trade plan you can defend — map support and resistance, read market structure, check the setup against a pre-trade checklist, size the position from the risk you chose, and write the plan down before you enter. Built from a real copy-signal record: 34 months, +5,511.4 pips. Use when you need a second opinion on a setup, a position size, or a written plan for a trade.
 summary: Read the chart, size the risk, write the plan — no trade without all three.
 version: 1.0.0
 tags:
@@ -45,8 +45,7 @@ writes the whole thing down as a plan before any money moves. No
 trade without all three: read the chart, size the risk, write the
 plan.
 
-The method is the one behind a real copy-signal record on Traders
-Family (profile AndreFx081, card oxndrean7): 34 months, +5,511.4
+The method is the one behind a real copy-signal record: 34 months, +5,511.4
 pips, 60K USD profit, Rp77.000 per month, about 2,898.5 pips per
 month on average. The full record, as shown on the card: 51 of 134
 settled signals profitable (about 38% win rate), average
@@ -55,7 +54,7 @@ average stop of 224.8 pips, and gold (XAUUSD) as the main pair —
 71,639 USD across 105 deals. November 2026 was +3,360.3 pips
 across 41 signals, but October 2026 was -967.4 pips across 60
 signals: losing months happen, and the record shows them. Those
-numbers are the record as shown on the Traders Family card — a
+numbers are the record as shown on the copy-signal card — a
 record, not a promise. No month, no signal and no setup in
 this skill is guaranteed to repeat them. A signal is a plan with a
 stop, not a certainty.
@@ -145,7 +144,7 @@ rolls up into a monthly review like the one in
 `examples/journal-nov-2026.md`: total pips, number of signals,
 win rate, biggest win and loss, and whether the month followed
 the plan. That monthly review is exactly how the author's
-Traders Family record is kept — November 2026: 3,360.3 pips,
+copy-signal record is kept — November 2026: 3,360.3 pips,
 41 signals — and it is the only honest way to know whether an
 edge is real or imagined.
 

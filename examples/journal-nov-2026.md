@@ -9,12 +9,19 @@ Figures are the record as shown on the Traders Family card.
 - Average pips per signal: about 82
 - Service price: Rp77.000 per month
 
-## The longer record (as shown on the card)
+## The longer record (as shown on the card, 20 Nov 2026)
 
-- Months tracked: 33
+- Months tracked: 34
 - Total pips: +5,511.4
 - Profit shown: 60K USD
 - Average per month shown: about 2,898.5 pips
+- Settled signals: 51 profitable / 134 (about 38% win rate), 83 losing
+- Average reward-to-risk: 1:1.89
+- Average take-profit: 425.8 pips; average stop: 224.8 pips
+- Average holding period: about 2 days
+- Main pair: XAUUSD — 71,639 USD across 105 deals
+- Recent months: November 2026 +3,360.3 pips (41 signals); October 2026 -967.4 pips (60 signals); September 2026 +2,898.5 pips (31 signals)
+- Worst streak on record: 11 consecutive losses (-$22,429.1); best: 5 consecutive profits ($21,500)
 
 ## What the review is for
 

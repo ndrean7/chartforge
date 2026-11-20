@@ -53,7 +53,10 @@ reward-to-risk 1:1.89, average take-profit 425.8 pips against an
 average stop of 224.8 pips, and gold (XAUUSD) as the main pair —
 71,639 USD across 105 deals. November 2026 was +3,360.3 pips
 across 41 signals, but October 2026 was -967.4 pips across 60
-signals: losing months happen, and the record shows them. Those
+signals: losing months happen, and the record shows them. September
+2026 was +2,898.5 pips across 31 signals, January 2026 was +320.0
+pips on a single signal, and June 2026 was -100.0 pips on a single
+signal — a small losing month, not a blow-up. Those
 numbers are the record as shown on the copy-signal card — a
 record, not a promise. No month, no signal and no setup in
 this skill is guaranteed to repeat them. A signal is a plan with a

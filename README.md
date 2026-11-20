@@ -15,7 +15,9 @@ settled signals profitable (about 38% win rate), average
 reward-to-risk 1:1.89, average take-profit 425.8 pips against an
 average stop of 224.8 pips, gold (XAUUSD) as the main pair (71,639
 USD, 105 deals), and October 2026 at -967.4 pips — losing months
-happen. Those numbers are the record as shown on the copy-signal
+happen. September 2026 was +2,898.5 pips, January 2026 was +320.0
+pips on a single signal, and June 2026 was -100.0 pips on a single
+signal — a small losing month. Those numbers are the record as shown on the copy-signal
 card — a record, not a promise.
 
 ## What is inside

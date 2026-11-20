@@ -19,7 +19,7 @@ copy-signal record. Figures are the record as shown on the card.
 - Average take-profit: 425.8 pips; average stop: 224.8 pips
 - Average holding period: about 2 days
 - Main pair: XAUUSD — 71,639 USD across 105 deals
-- Recent months: November 2026 +3,360.3 pips (41 signals); October 2026 -967.4 pips (60 signals); September 2026 +2,898.5 pips (31 signals)
+- Recent months: November 2026 +3,360.3 pips (41 signals); October 2026 -967.4 pips (60 signals); September 2026 +2,898.5 pips (31 signals); January 2026 +320.0 pips (1 signal); June 2026 -100.0 pips (1 signal — a small losing month)
 - Worst streak on record: 11 consecutive losses (-$22,429.1); best: 5 consecutive profits ($21,500)
 
 ## What the review is for

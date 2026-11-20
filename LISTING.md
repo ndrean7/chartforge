@@ -32,9 +32,14 @@ plan in signal format: pair, direction, entry, stop, target, size,
 and the invalidation that proves the idea wrong.
 
 The method is the one behind a real copy-signal record on Traders
-Family (profile AndreFx081, card oxndrean7): 33 months, +5,511.4
+Family (profile AndreFx081, card oxndrean7): 34 months, +5,511.4
 pips, 60K USD profit, about 2,898.5 pips per month on average, and
-November 2026 at 3,360.3 pips across 41 signals. The skill also
+November 2026 at 3,360.3 pips across 41 signals. The full record:
+51 of 134 settled signals profitable (about 38% win rate), average
+reward-to-risk 1:1.89, average take-profit 425.8 pips against an
+average stop of 224.8 pips, gold (XAUUSD) as the main pair (71,639
+USD across 105 deals), and October 2026 at -967.4 pips across 60
+signals — losing months happen, and the record shows them. The skill also
 teaches the habit that keeps a record honest: journaling every trade
 and reviewing the month like a signal record — total pips, signals,
 win rate, and whether the plan was actually followed.
